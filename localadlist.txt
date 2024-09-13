@@ -1,0 +1,4 @@
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 adncdnend.azureedge.net
+0.0.0.0 fundingchoicesmessages.google.com
