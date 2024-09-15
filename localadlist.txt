@@ -2,3 +2,6 @@
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 adncdnend.azureedge.net
 0.0.0.0 fundingchoicesmessages.google.com
+0.0.0.0 tubitv.com
+0.0.0.0 outbrain.com
+0.0.0.0 amazon-adsystem.com
